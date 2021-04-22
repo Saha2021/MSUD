@@ -1,9 +1,9 @@
-Install.packages("tidyverse")
-install.packages("metafor")
-install.packages("ggplot2")
-install.packages("plotly")
-install.packages("dplyr")
-install.packages("tinytex")
+#install.packages("tidyverse")
+#install.packages("metafor")
+#install.packages("ggplot2")
+#install.packages("plotly")
+#install.packages("dplyr")
+#install.packages("tinytex")
 
 
 library(tidyverse)
